@@ -3,5 +3,5 @@ Ova dokumentacija sluzi u svrhu primjene pandoca za konverziju datoteka odnosno 
 
 1. 👻 [Uvod u Pandoc](doc/02-pandoc-primjeri-konverzije.md) 
 2. 👾 [Uvod u Markdown](docs/01-markdown-primjeri.md)
-
-   ![Tux](Tux.png)
+   
+   <img src="Tux.png" width="30%">
