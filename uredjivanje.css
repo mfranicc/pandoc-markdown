@@ -1,1 +1,21 @@
+body {
+  background-color: #0b0b0b;
+  color: #9c9a9a;
+  font-family: "Garamond", serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  color: #b30000;
+  text-align: center;
+  letter-spacing: 2px;
+}
+
+a {
+  color: #c2bcbc;
+  text-decoration: none;
+}
 
