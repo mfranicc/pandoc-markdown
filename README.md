@@ -1,16 +1,14 @@
 
-<div align="center">
-   ☽───────༺༻───────☾
+☽───────༺༻───────☾
 # 💀 Uvod u Pandoc i Markdown 💀
-   ☽───────༺༻───────☾
-</div>
+<br>
 
 Ova dokumentacija služi u svrhu primjene pandoca za konverziju datoteka odnosno Markdowna te za izradu tehničke dokumentacije.
 
-1. 👻 [Uvod u Pandoc](doc/02-pandoc-primjeri-konverzije.md) 
+1. 👻 [Uvod u Pandoc](docs/02-pandoc-primjeri-konverzije.md) 
 2. 🦇 [Uvod u Markdown](docs/01-markdown-primjeri.md)
 
-[Posjetite stranicu projekta](https://mfranicc.github.io/pandoc-markdown)
+⚔️[Posjetite stranicu projekta](https://mfranicc.github.io/pandoc-markdown)
    <br>
    <div align="center">
    <img src="Tux.png" width="30%">
@@ -32,4 +30,3 @@ Ovaj projekt pokazuje praktične primjere korištenja Markdowna i Pandoca.
 
 ### ☠️ Hvala na posjeti ☠️ 
 ☽───────༺༻───────☾
-   
