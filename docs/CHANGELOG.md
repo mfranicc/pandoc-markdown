@@ -1,9 +1,11 @@
 #Changelog za Pandoc i Markdown
+- [vo.3] - 04. studeni 2025.
+- uređeni predlošci u docs/
 - [v0.2] - 02. studeni 2025.
-- bla bla bla
+- uređen README
 - [v0.1] - 30. listopada 2025.
 - Inicijalna verzija strukture repozitorija
 - Dodani predlošci u docs/
 -  Dodan README
 -  LICENSE
--  početni CHANGELOG)
+-  početni CHANGELOG
