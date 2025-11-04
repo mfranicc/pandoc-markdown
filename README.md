@@ -1,4 +1,9 @@
-
+---
+title: "Uvod u Markdown"
+author: "Maša Franić"
+date: "04. listopada 2025."
+lang: "hr"
+---
 ☽───────༺༻───────☾
 # 💀 Uvod u Pandoc i Markdown 💀
 <br>
